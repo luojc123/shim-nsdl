@@ -1,4 +1,4 @@
-This  repo is for review of requests for signing shim.  To create a request for review:
+This repo is for review of requests for signing shim.  To create a request for review:
 
 - clone this repo
 - edit the template below
