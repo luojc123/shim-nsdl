@@ -15,6 +15,54 @@ Note that we really only have experience with using GRUB2 on Linux, so asking
 us to endorse anything else for signing is going to require some convincing on
 your part.
 
+- clone this repo
+- edit the template below
+- add the shim.efi to be signed
+- add build logs
+- add any additional binaries/certificates/SHA256 hashes that may be needed
+- commit all of that
+- tag it with a tag of the form "myorg-shim-arch-YYYYMMDD"
+- push that to github
+- file an issue at https://github.com/rhboot/shim-review/issues with a link to your branch
+- approval is ready when you have accepted tag
+
+Note that we really only have experience with using GRUB2 on Linux, so asking
+us to endorse anything else for signing is going to require some convincing on
+your part.
+
+
+- clone this repo
+- edit the template below
+- add the shim.efi to be signed
+- add build logs
+- add any additional binaries/certificates/SHA256 hashes that may be needed
+- commit all of that
+- tag it with a tag of the form "myorg-shim-arch-YYYYMMDD"
+- push that to github
+- file an issue at https://github.com/rhboot/shim-review/issues with a link to your branch
+- approval is ready when you have accepted tag
+
+Note that we really only have experience with using GRUB2 on Linux, so asking
+us to endorse anything else for signing is going to require some convincing on
+your part.
+
+
+- clone this repo
+- edit the template below
+- add the shim.efi to be signed
+- add build logs
+- add any additional binaries/certificates/SHA256 hashes that may be needed
+- commit all of that
+- tag it with a tag of the form "myorg-shim-arch-YYYYMMDD"
+- push that to github
+- file an issue at https://github.com/rhboot/shim-review/issues with a link to your branch
+- approval is ready when you have accepted tag
+
+Note that we really only have experience with using GRUB2 on Linux, so asking
+us to endorse anything else for signing is going to require some convincing on
+your part.
+
+
 Here's the template:
 
 -------------------------------------------------------------------------------
