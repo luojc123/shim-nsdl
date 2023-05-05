@@ -1,12 +1,14 @@
-构建目标平台：x86_64
+构建目标平台：x86_64 
 为目标x86_64构建
 已写至：/builddir/build/SRPMS/shim-unsigned-x64-15.4-4.el8.1.src.rpm
 构建目标平台：x86_64
 为目标x86_64构建
 已写至：/builddir/build/SRPMS/shim-unsigned-x64-15.4-4.el8.1.src.rpm
 No matches found for the following disable plugin patterns: local, spacewalk
-Local require            [===                 ] ---  B/s |   0  B     --:-- ETALocal require                                   2.3 MB/s | 3.0 kB     00:00    
-NewStartOS-Thirdpart     [===                 ] ---  B/s |   0  B     --:-- ETANewStartOS-Thirdpart                            3.0 MB/s | 3.0 kB     00:00    
+Local require            [===                 ] ---  B/s |   0  B     --:-- ETA
+Local require                                   2.3 MB/s | 3.0 kB     00:00    
+NewStartOS-Thirdpart     [===                 ] ---  B/s |   0  B     --:-- ETA
+NewStartOS-Thirdpart                            3.0 MB/s | 3.0 kB     00:00    
 Package dos2unix-7.4.0-6.el8.x86_64 is already installed.
 Package elfutils-libelf-devel-0.176-5.el8.x86_64 is already installed.
 Package findutils-1:4.6.0-20.el8.x86_64 is already installed.
